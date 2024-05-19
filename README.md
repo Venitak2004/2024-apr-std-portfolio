@@ -21,3 +21,9 @@ The hope page displays and image andjust some random text fo rnow.
 
 ## Services
 The services page shows the servies provided by the company with an image an the title of the service.
+
+## About
+The about page utilises CSS Grid to some information about the company.
+
+## Contact
+The contact page has a form to fill up to contact the company but it does not work for now.
